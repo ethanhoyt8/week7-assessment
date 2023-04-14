@@ -1,0 +1,3 @@
+1. It appears that it runs faster when being passsed to the doublerAppend function
+
+It seems that the doublerAppend function scales faster than the doublerInsert function based off of the times that I've received
